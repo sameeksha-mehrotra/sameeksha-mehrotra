@@ -31,13 +31,13 @@ I'm a Computer Science junior at UT Austin (minors in Statistics & Data Science 
 **Break Through Tech AI Studio Fellow** · Accenture · Sep 2026 – Dec 2026
 *Contract Clause Review: Explainable NLP for Legal Risk*
 - Building an explainable NLP pipeline that classifies commercial contract clauses and assigns risk scores, so reviewers can spot high-risk terms faster
-- Working with a team of fellows and Accenture industry advisors on a real-world legal-tech challenge, using the CUAD dataset (500+ annotated contracts)
-- **Tools:** Python, pandas, scikit-learn, NLP, Jupyter · [project repo](https://github.com/Break-Through-Tech/Accenture-1K-contract-review-challenge)
+- Fine-tuned DistilRoBERTa for 41-label clause classification and fixed severe class imbalance with weighted BCE loss, raising macro-F1 from 0.07 to 0.37 and recovering 30 of 37 missed clause categories
+- **Tools:** Python, PyTorch, Hugging Face Transformers, scikit-learn, Jupyter · [project repo](https://github.com/Break-Through-Tech/Accenture-1K-contract-review-challenge)
 
 ### Projects
-**Logistic Regression & Model Selection** · [repo](https://github.com/sameeksha-mehrotra/logistic-regression-model-selection)
-- Implemented logistic regression from scratch with Newton's method, then compared it with KNN, decision trees, and neural networks on real-world datasets
-- **Tools:** Python, NumPy, scikit-learn, Jupyter
+**Airbnb Superhost Prediction: Logistic Regression & Model Selection** · [repo](https://github.com/sameeksha-mehrotra/logistic-regression-model-selection)
+- Predicted Superhost status for 28K NYC Airbnb listings from 49 host, listing, and review features; tuned regularization strength `C` through model selection (ROC-AUC 0.82)
+- **Tools:** Python, pandas, scikit-learn
 
 ### Leadership
 **Fellow, Break Through Tech** · 2026 – Present
@@ -54,7 +54,7 @@ I'm a Computer Science junior at UT Austin (minors in Statistics & Data Science 
 |---|---|---|
 | [**AI Studio: contract clause review**](https://github.com/Break-Through-Tech/Accenture-1K-contract-review-challenge) | Explainable classification and risk scoring of contract clauses for Accenture | Python, NLP, CUAD |
 | [**rag-chatbot**](https://github.com/sameeksha-mehrotra/rag-chatbot) | Deployed RAG chatbot over a 19-page research paper, with page citations and a 30-question eval set (accuracy went from 18/30 to 22/30) · [live demo](https://sameekshas-rag-chatbot.streamlit.app) | LangChain, Pinecone, Groq, Streamlit |
-| [**logistic-regression-model-selection**](https://github.com/sameeksha-mehrotra/logistic-regression-model-selection) | Logistic regression model selection and evaluation | Python, scikit-learn |
+| [**logistic-regression-model-selection**](https://github.com/sameeksha-mehrotra/logistic-regression-model-selection) | Predicts Airbnb Superhost status for 28K NYC listings; logistic regression tuned via model selection (ROC-AUC 0.82) | Python, scikit-learn |
 
 ---
 
