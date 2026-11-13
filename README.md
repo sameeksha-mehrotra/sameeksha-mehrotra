@@ -1,10 +1,10 @@
-# Hi, I'm Sameeksha (Sam) Mehrotra 👋
+# Hi, I'm Sameeksha Mehrotra 👋
 
 **Applied AI Engineer in training. I build and deploy ML systems that real users rely on.**
 
 I'm a Computer Science junior at UT Austin (minors in Statistics & Data Science and Business Foundations, graduating May 2028). I want to work in applied AI and forward-deployed engineering: taking ML models out of notebooks and into production for customers, using retrieval pipelines, evaluation, and monitoring.
 
-📫 **Email:** your.professional@email.com · 💼 **LinkedIn:** [linkedin.com/in/sameeksha-mehrotra](https://www.linkedin.com/in/sameeksha-mehrotra) · 🌐 **Portfolio:** [sameeksha-mehrotra-github-io.vercel.app](https://sameeksha-mehrotra-github-io.vercel.app/)
+📫 **Email:** saasha.mehrotra@email.com · 💼 **LinkedIn:** [linkedin.com/in/sameeksha-mehrotra](https://www.linkedin.com/in/sameeksha-mehrotra) · 🌐 **Portfolio:** [sameeksha-mehrotra-github-io.vercel.app](https://sameeksha-mehrotra-github-io.vercel.app/)
 
 ---
 
