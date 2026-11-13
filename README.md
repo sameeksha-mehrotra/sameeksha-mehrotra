@@ -4,7 +4,7 @@
 
 I'm a Computer Science junior at UT Austin (minors in Statistics & Data Science and Business Foundations, graduating May 2028). I want to work in applied AI and forward-deployed engineering: taking ML models out of notebooks and into production for customers, using retrieval pipelines, evaluation, and monitoring.
 
-📫 **Email:** saasha.mehrotra@email.com · 💼 **LinkedIn:** [linkedin.com/in/sameeksha-mehrotra](https://www.linkedin.com/in/sameeksha-mehrotra) · 🌐 **Portfolio:** [sameeksha-mehrotra-github-io.vercel.app](https://sameeksha-mehrotra-github-io.vercel.app/)
+📫 **Email:** saasha.mehrotra@gmail.com · 💼 **LinkedIn:** [linkedin.com/in/sameeksha-mehrotra](https://www.linkedin.com/in/sameeksha-mehrotra) · 🌐 **Portfolio:** [sameeksha-mehrotra-github-io.vercel.app](https://sameeksha-mehrotra-github-io.vercel.app/)
 
 ---
 
@@ -41,7 +41,7 @@ I'm a Computer Science junior at UT Austin (minors in Statistics & Data Science 
 
 ### Leadership
 **Fellow, Break Through Tech** · 2026 – Present
-- Selected for Break Through Tech AI at Cornell Tech, a [selective / X% acceptance] program that prepares undergraduates from underrepresented groups for AI and ML careers through an ML course, an industry AI Studio project, and career readiness training
+- Selected for Break Through Tech AI at Cornell Tech, a selective program that prepares undergraduates from underrepresented groups for AI and ML careers through an ML course, an industry AI Studio project, and career readiness training
 
 ### Certification
 **Machine Learning Foundations** · Break Through Tech AI × Cornell Tech · 2026
